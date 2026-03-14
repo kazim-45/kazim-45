@@ -11,7 +11,7 @@
 
 ### I build things that shouldn't exist yet.
 
-*Student · Builder · Game Dev · AI Tinkerer*
+*Student · Builder · AI/ML · Software Tinkerer*
 
 </div>
 
