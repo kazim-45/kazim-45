@@ -10,7 +10,7 @@
 ```
 
 ### Developer · Filmmaker · Writer
-**Lahore, Pakistan — 17 years old**
+**Lahore, Pakistan — 18 years old**
 
 [![Portfolio](https://img.shields.io/badge/GitHub-kazim--45-c9a84c?style=flat-square&logo=github)](https://github.com/kazim-45)
 [![FADE IN](https://img.shields.io/badge/Live%20App-FADE%20IN-c9a84c?style=flat-square)](https://fade-in-script-writer.vercel.app)
