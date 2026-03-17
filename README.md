@@ -46,10 +46,9 @@ Mobile responsive    ·  Dark/light mode      ·  Autosave       ·  Focus mode
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[DEAD ZONE](https://github.com/kazim-45)** | 3D browser FPS zombie survival — scoped ADS, boss waves, forest environment | Three.js r128 |
-| **[DEAD MAZE](https://github.com/kazim-45)** | 2D top-down maze survival with BFS enemy AI | Vanilla JS / Canvas |
-| **[MAZE RUNNER](https://github.com/kazim-45)** | 3D first-person maze game with fog and flashlight | Three.js r128 |
-| **[Bloomify](https://github.com/kazim-45)** | Habit tracker where tasks grow a virtual plant | HTML / CSS / JS |
+| **[DEAD ZONE](https://github.com/kazim-45/dead-zone)** | 3D browser FPS zombie survival with scoped ADS, boss waves, forest environment | Three.js r128 |
+| **[TEMPLE DASH](https://github.com/kazim-45/Temple-dash)** | 2D top-down maze survival with BFS enemy AI | Vanilla JS / Canvas |
+| **[BLOOMIFY](https://github.com/kazim-45/bloomify-habit-tracker)** | Habit tracker where tasks grow a virtual plant | HTML / CSS / JS |
 
 ---
 
@@ -59,19 +58,13 @@ Mobile responsive    ·  Dark/light mode      ·  Autosave       ·  Focus mode
 Languages     Python · JavaScript · HTML · CSS
 Game Dev      Three.js · Canvas API · WebGL
 AI / ML       In progress — Urdu/Roman Urdu NLP
-Tools         Git · GitHub · Vercel · VS Code
-Interests     Screenwriting · Film · Poetry · Chess
+Tools         Git · GitHub · Vercel · Claude 
+Interests     Programming · Screenwriting · Filmmaking · Chess
 ```
 
 ---
 
-## Writing
 
-I write under the pen name **Raazdan** — influenced by Jaun Elia, Ahmad Faraz, and Munir Niazi.
-
-I'm also developing **Bhai**, a crime/investigative thriller film project exploring systemic corruption in Pakistan — inspired by *Paatal Lok* and *Prisoners*.
-
----
 
 ## Goals
 
