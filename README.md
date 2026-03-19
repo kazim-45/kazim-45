@@ -12,6 +12,7 @@
 ### Developer · Filmmaker · Writer
 **Lahore, Pakistan — 18 years old**
 
+[![OpenSlate](https://img.shields.io/badge/OpenSlate-weopenslate.vercel.app-c9a84c?style=flat-square)](https://weopenslate.vercel.app)
 [![OpenWrite](https://img.shields.io/badge/OpenWrite-openwrite.vercel.app-c9a84c?style=flat-square)](https://openwrite.vercel.app)
 [![OpenFrame](https://img.shields.io/badge/OpenFrame-openframev1.vercel.app-c9a84c?style=flat-square)](https://openframev1.vercel.app)
 
@@ -25,35 +26,34 @@ Self-taught across web development, game development, and AI/ML. My work lives a
 
 ---
 
-## OpenSlate Suite
+## OpenSlate
 
-A free, open-source filmmaking toolkit. Write your script, plan your shoot — all in one place, all at zero cost.
+**[weopenslate.vercel.app](https://weopenslate.vercel.app)**
+
+A free, open-source filmmaking toolkit. Write your script, plan your shoot — no subscriptions, no paywalls.
 
 ### [OpenWrite](https://github.com/kazim-45/openwrite) — Screenwriting Software
-> Professional screenplay editor. Runs in a single HTML file with zero dependencies.
+> Industry-standard screenplay editor. Single HTML file. Zero dependencies.
 
 **[→ openwrite.vercel.app](https://openwrite.vercel.app)**
 
-Industry-standard formatting, real-time Script Doctor, smart autocomplete, selection-based formatting toolbar, clean PDF export, full mobile support.
-
 ```
-Scene Headings · Dialogue · Transitions · Script Doctor · PDF Export
-Smart Autocomplete · Dark/Light Mode · Autosave · Mobile Ready
+Scene Headings · Dialogue · Transitions · Script Doctor
+Smart Autocomplete · PDF Export · Dark Mode · Mobile Ready
 ```
-
----
 
 ### [OpenFrame](https://github.com/kazim-45/openframe) — Pre-Production Suite
 > Storyboard, shot list, characters, locations, call sheet. Built with Next.js.
 
 **[→ openframev1.vercel.app](https://openframev1.vercel.app)**
 
-Four visual modes per panel: SVG templates, freehand drawing, reference upload, and AI-generated shots via Pollinations.ai. Exports to PDF and JSON. Full mobile support.
+```
+Storyboard · Shot List · Call Sheet · AI Image Generation
+PDF + JSON Export · Drawing Canvas · Mobile Ready
+```
 
-```
-Storyboard · Shot List · Characters · Locations · Mood Board · Call Sheet
-PDF Exports · AI Image Generation · Drawing Canvas · Mobile Ready
-```
+### OpenView — Viewfinder & Shot Planning
+> Coming soon. Completes the trilogy.
 
 ---
 
@@ -83,7 +83,7 @@ Interests     AI/ML · Screenwriting · Film · Chess
 
 Building toward international internships and open-source contributions. Targeting GSoC and MLH Fellowship.
 
-Next project: **Urdu/Roman Urdu sentiment analyzer** — transformer-based NLP, one of the only open-source implementations for Roman Urdu.
+Signature project in development: **Urdu/Roman Urdu sentiment analyzer** — transformer-based NLP, one of the only open-source implementations for Roman Urdu.
 
 ---
 
