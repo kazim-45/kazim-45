@@ -11,63 +11,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kazim-45&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kazim-45&theme=radical&hide_border=true" />
-</p>
+![Kazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazim-45&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-45&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kazim-45&theme=radical)
 
 ---
 
-## 🚀 Most Used Languages
+## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-45&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kazim-45&theme=radical)
 
----
-
-## 💻 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kazim-45&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kazim-45&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazim-45&theme=radical&bg_color=0d1117&hide_border=true" />
-</p>
-
----
-
-## 🔥 Most Starred Repos
-
-<p align="center">
-  <a href="https://github.com/kazim-45/dead-zone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kazim-45&repo=dead-zone&theme=radical" />
-  </a>
-  <a href="https://github.com/kazim-45/Temple-dash">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kazim-45&repo=Temple-dash&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kazim-45/openslate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kazim-45&repo=openslate&theme=radical" />
-  </a>
-</p>
-
----
 
 
 ## 📊 GitHub Stats
