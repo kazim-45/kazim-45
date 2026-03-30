@@ -1,3 +1,14 @@
+<div align="center">
+
+```
+██╗  ██╗ █████╗ ███████╗██╗███╗   ███╗
+██║ ██╔╝██╔══██╗╚══███╔╝██║████╗ ████║
+█████╔╝ ███████║  ███╔╝ ██║██╔████╔██║
+██╔═██╗ ██╔══██║ ███╔╝  ██║██║╚██╔╝██║
+██║  ██╗██║  ██║███████╗██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
+```
+
 # 💫 About Me:
 🔭 I’m currently working on ChessMaster AI.<br>👯 I’m looking to collaborate on Productivity Software.<br>🌱 I’m currently learning AI/ML and Agentic AI.<br>💬 Ask me about my work.<br>⚡ Fun fact - My peak screen-time has been 42 hours continuously 
 
