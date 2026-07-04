@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ███████╗██╗███╗   ███╗
-██║ ██╔╝██╔══██╗╚══███╔╝██║████╗ ████║
-█████╔╝ ███████║  ███╔╝ ██║██╔████╔██║
-██╔═██╗ ██╔══██║ ███╔╝  ██║██║╚██╔╝██║
-██║  ██╗██║  ██║███████╗██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Hey+%F0%9F%91%8B+I'm+Kazim;Cybersecurity+enthusiast;Hackathon+Winner)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on MilkyWay-CTF.<br>👯 I’m looking to collaborate on Cybersecurity Tools.<br>🌱 I’m currently learning AI/ML and Penetration-Testing.<br>💬 Ask me about my work.<br>⚡ Fun fact - My peak screen-time has been 42 hours continuously 
