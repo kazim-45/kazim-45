@@ -98,11 +98,6 @@ open_to:
   <img src="https://github-readme-stats.vercel.app/api?username=kazim-45&show_icons=true&theme=dark&bg_color=0a0d12&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1e0&border_color=1e2530&hide_border=false" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazim-45&theme=dark&background=0a0d12&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&border=1e2530" alt="GitHub Streak" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-45&layout=compact&theme=dark&bg_color=0a0d12&title_color=00d4aa&text_color=c9d1e0&border_color=1e2530" alt="Top Languages" width="40%" />
-</p>
-
 ---
 
 ### 🏆 Achievements
@@ -117,11 +112,22 @@ open_to:
 ### 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/kazim-45">
+  <a href="https://github.com/kazim-45" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-kazim--45-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/alphamanofgod" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-alphamanofgod-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/sigmundkhan" target="_blank">
+    <img src="https://img.shields.io/badge/X-sigmundkhan-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kazim-kazim-8640623b2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kazim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
