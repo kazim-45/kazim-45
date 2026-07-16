@@ -89,7 +89,7 @@ open_to:
 | [**PassAudit**](https://github.com/kazim-45/passaudit) | 🔑 Password strength & breach checker using HaveIBeenPwned k-anonymity | Python, Rich |
 | [**MetaHunter**](https://github.com/kazim-45/MetaHunter) | 🕵️ Metadata extraction tool — pulls hidden data from files for OSINT & recon | Python |
 | [**MilkyWay-CTF**](https://github.com/kazim-45/MilkyWay-CTF) | 🏴 Browser-based CTF toolkit with simulated terminal interface | Python, JS |
-| [**Drago-tty**](https://github.com/kazim-45/Drago-tty) | 🖥️ A real, working terminal in your browser. | JS, CSS, HTML |
+| [**Drago-tty**](https://github.com/kazim-45/Drago-tty) | 🖥️ A real, working terminal in your browser. Password-protected, self-hosted, no build step. | JS, CSS, HTML |
 
 ---
 
