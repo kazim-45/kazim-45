@@ -145,8 +145,14 @@ open_to:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kazimportfolio.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alphamanofgod)
 
+---
+
 </div>
 
 <p align="center">
   <i>"The best way to learn security is to break things."</i>
 </p>
+
+---
+
+https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572
