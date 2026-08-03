@@ -20,13 +20,13 @@ role: Self-Taught Developer & Cybersecurity Enthusiast
 location: Lahore, Pakistan
 
 what_i_do:
-  - Building open-source cybersecurity CLI tools (one now shipped to PyPI + APT)
+  - Building open-source cybersecurity CLI tools
   - Learning Bug Bounty & Web Application Pentesting
   - Practicing on HackTheBox, TryHackMe, PicoCTF & PortSwigger Academy
   - Exploring offensive security through hands-on home-lab projects
 
 currently_learning:
-  - 🕷️  Web Application Penetration Testing (PortSwigger Academy)
+  - 🕷️  Web Application Penetration Testing
   - 🏴  CTF challenges & Hands-on labs
   - 🛡️  Network security & packet analysis
   - 🔍  OSINT & reconnaissance techniques
