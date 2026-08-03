@@ -32,7 +32,7 @@ currently_learning:
   - 🔍  OSINT & reconnaissance techniques
 
 building:
-  - 🌌  milkyway     — CTF orchestrator: 11 domains, 60 commands, built-in VCS for hacking sessions, published on PyPI
+  - 🌌  milkyway     — CTF orchestrator: 11 domains, 60 commands, built-in VCS for hacking sessions.
   - 🌐  NETSPY       — live network packet sniffer with a real-time browser dashboard
   - 🔍  MetaHunter   — metadata extraction & sanitization tool for OSINT/forensics
   - 📋  LogWatch     — system log anomaly detector
@@ -75,7 +75,9 @@ open_to:
 
 **🗄️ Databases**
 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **🧰 Platforms & Tools**
 
@@ -133,26 +135,17 @@ open_to:
 
 ---
 
-### 🤝 Connect
+## 🌐 Connect With Me
 
-<p align="center">
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kazim-kazim-8640623b2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kazim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/alphamanofgod" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-alphamanofgod-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/sigmundkhan" target="_blank">
-    <img src="https://img.shields.io/badge/X-sigmundkhan-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:muhammadkazim387@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-muhammadkazim387-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sigmundkhan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazim-kazim-8640623b2)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muhammadkazim387@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kazimportfolio.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alphamanofgod)
+
+</div>
 
 <p align="center">
   <i>"The best way to learn security is to break things."</i>
