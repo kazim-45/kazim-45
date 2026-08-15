@@ -117,8 +117,7 @@ open_to:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazim-45&show_icons=true&theme=dark&bg_color=0a0d12&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1e0&border_color=1e2530&hide_border=false" alt="GitHub Stats" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazim-45&theme=dark&background=0a0d12&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&border=1e2530" alt="GitHub Streak" width="48%" />
 </p>
 
