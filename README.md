@@ -117,7 +117,7 @@ open_to:
 
 ### 📊 GitHub Stats
 
-
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazim-45&theme=dark&background=0a0d12&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&border=1e2530" alt="GitHub Streak" width="48%" />
 </p>
 
