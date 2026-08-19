@@ -34,7 +34,7 @@ currently_learning:
 building:
   - 🌌  milkyway     — CTF orchestrator: 11 domains, 60 commands, built-in VCS for hacking sessions.
   - 🌐  NETSPY       — live network packet sniffer with a real-time browser dashboard
-  - 🔍  MetaHunter   — metadata extraction & sanitization tool for OSINT/forensics
+  - 🔍  PsearX       — A small, privacy-focused CLI metasearch tool, inspired by SearXNG
   - 📋  LogWatch     — system log anomaly detector
 
 open_to:
@@ -112,6 +112,7 @@ open_to:
 | [**chessmaster-ai**](https://github.com/kazim-45/chessmaster-ai) | ♟️ Browser-based chess engine with alpha-beta minimax AI, a 100+ position opening book, and a live evaluation bar. Zero dependencies, single HTML file | HTML, JS |
 | [**OPENSLATE**](https://github.com/kazim-45/OPENSLATE) | 🎬 Open-source filmmaking toolkit — OpenWrite (screenplay editor) + OpenFrame (pre-production suite) for filmmakers who can't afford the tools | HTML, JS |
 | [**HOME-LAB-PENTEST**](https://github.com/kazim-45/HOME-LAB-PENTEST) | 🧪 Documented pentest home lab built with VirtualBox, Kali Linux, and Metasploitable 2 — isolated network setup and a recon-to-exploitation reference | Docs |
+| [**PsearX**](https://github.com/kazim-45/psearx) | 🔍 A small, privacy-focused python CLI metasearch tool, inspired by [SearXNG](https://github.com/searxng/searxng) | Python |
 
 ---
 
