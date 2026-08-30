@@ -102,6 +102,7 @@ open_to:
 
 | Project | Description | Stack |
 |---|---|---|
+| [**HOME-LAB-PENTEST**](https://github.com/kazim-45/HOME-LAB-PENTEST) | 🧪 Documented pentest home lab built with VirtualBox, Kali Linux, and Metasploitable 2 — isolated network setup and a recon-to-exploitation reference | Docs |
 | [**milkyway**](https://github.com/kazim-45/milkyway) | 🌌 CTF orchestrator with 11 security domains ("planets") and 60 commands under one shell, built-in version control for every command you run, and an AI assistant. Published on **PyPI** and packaged for **APT**. | Python, Click, SQLite |
 | [**NETSPY**](https://github.com/kazim-45/NETSPY) | 🌐 Live network packet sniffer with a real-time browser dashboard — protocol breakdown, top talkers, and a live-scrolling packet table | Python, Scapy, Flask |
 | [**MetaHunter**](https://github.com/kazim-45/metahunter_tool) | 🕵️ Metadata extraction & sanitization tool for OSINT and forensics — pulls GPS, author, and device data from images, audio, and video | Python |
@@ -111,7 +112,6 @@ open_to:
 | [**Drago-tty**](https://github.com/kazim-45/Drago-tty) | 🖥️ A real, working terminal in your browser — Node.js spawns an actual shell and streams it over WebSockets. Password-protected, self-hosted, no build step | Node.js, xterm.js |
 | [**chessmaster-ai**](https://github.com/kazim-45/chessmaster-ai) | ♟️ Browser-based chess engine with alpha-beta minimax AI, a 100+ position opening book, and a live evaluation bar. Zero dependencies, single HTML file | HTML, JS |
 | [**OPENSLATE**](https://github.com/kazim-45/OPENSLATE) | 🎬 Open-source filmmaking toolkit — OpenWrite (screenplay editor) + OpenFrame (pre-production suite) for filmmakers who can't afford the tools | HTML, JS |
-| [**HOME-LAB-PENTEST**](https://github.com/kazim-45/HOME-LAB-PENTEST) | 🧪 Documented pentest home lab built with VirtualBox, Kali Linux, and Metasploitable 2 — isolated network setup and a recon-to-exploitation reference | Docs |
 | [**PSEARX**](https://github.com/kazim-45/psearx) | 🔍 A small, privacy-focused python CLI metasearch tool, inspired by [SearXNG](https://github.com/searxng/searxng) | Python |
 | [**HAUL-FETCH**](https://github.com/kazim-45/HAUL-FETCH) | ⬇️ A privacy-first CLI for downloading publicly accessible media from Instagram, YouTube, Reddit, Pinterest, TikTok, and Facebook — always at the best available quality, no accounts or tracking. | Python |
 
