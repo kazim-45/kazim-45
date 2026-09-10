@@ -129,7 +129,7 @@ open_to:
 
 - 🥇 **Hackathon Winner** — Cybersecurity track
 - 📦 **Shipped `milkyway-ctf` to PyPI + APT** — real packaging, releases, and GitHub Actions CI/CD
-- 🛠️ **10+ open-source tools** shipped to GitHub, spanning security and full-stack
+- 🛠️ **15+ open-source tools** shipped to GitHub, spanning security and full-stack
 - 🏴 **Active on** HackTheBox, TryHackMe, PicoCTF & PortSwigger Academy
 - 📚 **Self-taught** — zero formal CS background, all hands-on
 
