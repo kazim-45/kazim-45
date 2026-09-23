@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 ```yaml
-name: Kazim Khan
+name: Kazim
 role: Self-Taught Developer & Cybersecurity Enthusiast
 location: Lahore, Pakistan
 
