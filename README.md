@@ -5,19 +5,17 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Bug_Bounty_%26_Pentesting-00D4AA?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=kazim-45&style=for-the-badge&color=00d4aa" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Security_%26_Pentesting-00D4AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based_in-Lahore,_Pakistan-green?style=for-the-badge" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 ```yaml
 name: Kazim
 role: Self-Taught Developer & Cybersecurity Enthusiast
-location: Lahore, Pakistan
 
 what_i_do:
   - Building open-source cybersecurity CLI tools
@@ -33,9 +31,9 @@ currently_learning:
 
 building:
   - 🌌  milkyway     — CTF orchestrator: 11 domains, 60 commands, built-in VCS for hacking sessions.
-  - 🌐  NETSPY       — live network packet sniffer with a real-time browser dashboard
-  - 🔍  PsearX       — A small, privacy-focused CLI metasearch tool, inspired by SearXNG
-  - 📋  LogWatch     — system log anomaly detector
+  - 🌐  NETSPY       — Live network packet sniffer with a real-time browser dashboard.
+  - 🔍  VaultScan    — Scan your entire git history for accidentally committed secrets.
+  - 📋  LogWatch     — Lystem log anomaly detector.
 
 open_to:
   - Bug bounty collaborations
@@ -46,7 +44,7 @@ open_to:
 
 ---
 
-### 🛠️ Tools & Tech
+## 🛠️ Tools & Tech
 
 **Languages**
 
@@ -98,7 +96,7 @@ open_to:
 
 ---
 
-### 🔧 Featured Projects
+## 🔧 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -117,15 +115,22 @@ open_to:
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazim-45&theme=dark&background=0a0d12&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&border=1e2530" alt="GitHub Streak" width="48%" />
+<a href="https://rankistan.dev/#kazim-45">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fkazim-45&style=for-the-badge" alt="Rankistan rank badge">
+</a>
+</p>
+
+<p align="center">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=kazim-45&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%2300A3FF%22%2C%22borderColor%22%3A%22%23161B22%22%2C%22waterColor%22%3A%22%2300A3FF%22%2C%22streakColor%22%3A%22%2300A3FF%22%7D&t=1" width="650" alt="GitHub Streak Card" />
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - 🥇 **Hackathon Winner** — Cybersecurity track
 - 📦 **Shipped `milkyway-ctf` to PyPI + APT** — real packaging, releases, and GitHub Actions CI/CD
@@ -140,7 +145,6 @@ open_to:
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sigmundkhan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazim-khan-8640623b2 )
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muhammadkazim387@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kazimportfolio.vercel.app)
 
