@@ -95,6 +95,19 @@ open_to:
 ![PortSwigger](https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+<a href="https://rankistan.dev/#kazim-45">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fkazim-45&style=for-the-badge" alt="Rankistan rank badge">
+</a>
+</p>
+
+<p align="center">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=kazim-45&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%2300A3FF%22%2C%22borderColor%22%3A%22%23161B22%22%2C%22waterColor%22%3A%22%2300A3FF%22%2C%22streakColor%22%3A%22%2300A3FF%22%7D&t=1" width="650" alt="GitHub Streak Card" />
+</p>
+
+---
 
 ## 🔧 Featured Projects
 
@@ -112,21 +125,6 @@ open_to:
 | [**OPENSLATE**](https://github.com/kazim-45/OPENSLATE) | 🎬 Open-source filmmaking toolkit — OpenWrite (screenplay editor) + OpenFrame (pre-production suite) for filmmakers who can't afford the tools | HTML, JS |
 | [**PSEARX**](https://github.com/kazim-45/psearx) | 🔍 A small, privacy-focused python CLI metasearch tool, inspired by [SearXNG](https://github.com/searxng/searxng) | Python |
 | [**HAUL-FETCH**](https://github.com/kazim-45/HAUL-FETCH) | ⬇️ A privacy-first CLI for downloading publicly accessible media from Instagram, YouTube, Reddit, Pinterest, TikTok, and Facebook — always at the best available quality, no accounts or tracking. | Python |
-
----
-
-## 📊 GitHub Stats
----
-
-<p align="center">
-<a href="https://rankistan.dev/#kazim-45">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fkazim-45&style=for-the-badge" alt="Rankistan rank badge">
-</a>
-</p>
-
-<p align="center">
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=kazim-45&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%2300A3FF%22%2C%22borderColor%22%3A%22%23161B22%22%2C%22waterColor%22%3A%22%2300A3FF%22%2C%22streakColor%22%3A%22%2300A3FF%22%7D&t=1" width="650" alt="GitHub Streak Card" />
-</p>
 
 ---
 
