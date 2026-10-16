@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 ```yaml
-name: Kazim
+name: Kazim Khan
 role: Self-Taught Developer & Cybersecurity Enthusiast
 
 what_i_do:
